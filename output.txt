@@ -1,0 +1,16 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=53836:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/armanpopli/IdeaProjects/\"l(a\" by E.E. Cummings/out/production/\"l(a\" by E.E. Cummings" Main
+l(a
+
+le
+af
+fa
+
+l
+
+s
+one
+l
+
+iness
+
+Process finished with exit code 0
